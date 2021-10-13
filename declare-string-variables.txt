@@ -1,0 +1,3 @@
+var myFirstName="Stas";
+var myLastName="Fatkulin";
+
